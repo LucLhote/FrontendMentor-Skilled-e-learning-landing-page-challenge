@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+
+:root {
+    /* Main Colors */
+    --main-background-color: #FFFFFF;
+    --title-color: #13183F;
+    --paragraph-color: #83869A;
+
+    /* Button Styles */
+    --button-background-color-1: var(--title-color);
+    --button-background-color-1-hover: #666CA3;
+
+    --button-background-color-2: linear-gradient(#FF6F48, #F02AA6);
+    --button-background-color-2-hover: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), var(--button-background-color-1);
+
+    --button-background-color-3: linear-gradient(#4851FF, #F02AA6);
+    --button-background-color-3-hover: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), var(--button-background-color-2);
+
+    --button-border-radius: 28px;
+    --button-border-radius: 1.75rem;
+
+    /* Font and Font Sizes */
+    --main-font: 'Plus Jakarta Sans', sans-serif;
+
+    --heading-xl-line-height-fb: 70px;
+    --heading-xl-line-height: 4.375rem;
+    --heading-xl-fb: 56px;
+    --heading-xl: 3.5rem;
+
+    --heading-l-line-height-fb: 51px;
+    --heading-l-line-height: 3.1875rem;
+    --heading-l-fb: 40px;
+    --heading-l: 2.5rem;
+
+    --heading-m-line-height-fb: 40px;
+    --heading-m-line-height: 2.5rem;
+    --heading-m-fb: 32px;
+    --heading-m: 2rem;
+
+    --body-heading-s-line-height-fb: 28px;
+    --body-heading-s-line-height: 1.75rem;
+    --heading-s-fb: 24px;
+    --heading-s: 1.5rem;
+
+    --heading-weight: 800;
+
+    --body-m-fb: 18px;
+    --body-m: 1.125rem;
+    --body-m-weight: 500;
+
+    --body-s-fb: 16px;
+    --body-s: 1rem;
+    --body-s-weight: 700;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: var(--main-background-color);
+}
