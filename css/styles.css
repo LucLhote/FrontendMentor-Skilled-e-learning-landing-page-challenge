@@ -436,7 +436,7 @@ a {
     }
 
     .logo {
-        font-size: 37px;
+        font-size: 36px;
     }
 
     /* HEADER STYLE */
@@ -453,8 +453,8 @@ a {
     }
 
     .head-section__headline {
-        margin-bottom: 29px;
-        margin-bottom: 1.8125rem;
+        margin-bottom: 30px;
+        margin-bottom: 1.875rem;
         width: 457px;
         width: 28.5625rem;
         line-height: var(--heading-xl-line-height, --heading-xl-line-height-fb);
