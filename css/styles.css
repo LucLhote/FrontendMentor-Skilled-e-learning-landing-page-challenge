@@ -527,15 +527,15 @@ a {
     }
 
     .article__icon {
-        /* margin-bottom: 32px;
-        margin-bottom: 2rem; */
+        margin-bottom: 32px;
+        margin-bottom: 2rem;
     }
 
     .article__title {
-        /* margin-bottom: 24px;
+        margin-bottom: 24px;
         margin-bottom: 1.5rem;
         line-height: 30.24px;
-        line-height: 1.89rem; */
+        line-height: 1.89rem;
         font-size: var(--heading-s, --heading-s-fb);
     }
 
