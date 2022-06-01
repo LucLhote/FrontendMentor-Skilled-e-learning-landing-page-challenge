@@ -462,8 +462,8 @@ a {
     }
 
     .head-section__copy {
-        margin-bottom: 40px;
-        margin-bottom: 2.5rem;
+        margin-bottom: 41px;
+        margin-bottom: 2.5625rem;
         width: 445px;
         width: 27.8125rem;
         line-height: var(--body-heading-s-line-height, --body-heading-s-line-height-fb);
