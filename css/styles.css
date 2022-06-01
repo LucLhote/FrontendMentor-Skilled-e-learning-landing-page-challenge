@@ -337,6 +337,7 @@ a {
         margin: 1.5rem 0 6.1875rem 0;
     }
 
+    /* HEAD SECTION STYLE */
     .head-section {
         margin-bottom: 210px;
         margin-bottom: 13.125rem;
@@ -445,6 +446,7 @@ a {
         margin-bottom: 10.75rem;
     }
 
+    /* HEAD SECTION STYLE */
     .head-section {
         margin-bottom: 250px;
         margin-bottom: 15.625rem;
@@ -504,6 +506,11 @@ a {
         gap: 5rem 1.875rem;
     }
 
+    .second-section--border-radius {
+        border-radius: 15px;
+        border-radius: 0.9375rem;
+    }
+
     .second-section__title {
         height: 322px;
         height: 20.125rem;
@@ -551,5 +558,9 @@ a {
         position: absolute;
         bottom: 40px;
         bottom: 2.5rem;
+    }
+
+    .footer__button {
+        background: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
     }
 }
