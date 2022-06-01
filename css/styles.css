@@ -527,8 +527,8 @@ a {
     }
 
     .article__icon {
-        margin-bottom: 31px;
-        margin-bottom: 1.9375rem;
+        margin-bottom: 30px;
+        margin-bottom: 1.875rem;
     }
 
     .article__title {
@@ -541,6 +541,8 @@ a {
 
     .article__description {
         margin-bottom: 0;
+        width: 285px;
+        width: 17.8125rem;
         line-height: var(--body-heading-s-line-height, --body-heading-s-line-height-fb);
         font-size: var(--body-m, --body-m-fb);
     }
