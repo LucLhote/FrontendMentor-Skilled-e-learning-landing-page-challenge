@@ -313,6 +313,7 @@ a {
     color: var(--paragraph-color);
 }
 
+/* FOOTER STYLE */
 .footer {
     width: auto;
     height: 120px;
@@ -438,6 +439,7 @@ a {
 
     .logo {
         font-size: 36px;
+        font-size: 2.25rem;
     }
 
     /* HEADER STYLE */
@@ -560,6 +562,7 @@ a {
         bottom: 2.5rem;
     }
 
+    /* FOOTER STYLE */
     .footer__button {
         background: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
     }
